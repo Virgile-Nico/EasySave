@@ -1,0 +1,148 @@
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.exe
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.deps.json
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.runtimeconfig.json
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.runtimeconfig.dev.json
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.pdb
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.csproj.AssemblyReference.cache
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.AssemblyInfoInputs.cache
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.AssemblyInfo.cs
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.csproj.CoreCompileInputs.cache
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.pdb
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.genruntimeconfig.cache
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.exe
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.deps.json
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.runtimeconfig.json
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.runtimeconfig.dev.json
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.pdb
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Api.CommonProtos.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Api.Gax.Grpc.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Cloud.Translate.V3.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.LongRunning.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Grpc.Auth.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.csproj.AssemblyReference.cache
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.AssemblyInfoInputs.cache
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.AssemblyInfo.cs
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.csproj.CoreCompileInputs.cache
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.csproj.CopyComplete
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.dll
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.pdb
+C:\Users\mathis.lartilley\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.genruntimeconfig.cache
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.Language.Text.FR.resources
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.csproj.GenerateResource.cache
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.AssemblyInfoInputs.cache
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.AssemblyInfo.cs
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.csproj.CoreCompileInputs.cache
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.dll
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.pdb
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.exe
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.deps.json
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.runtimeconfig.json
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.runtimeconfig.dev.json
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.dll
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.pdb
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\FR\Console_Vue.resources.dll
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.Language.Text.resources
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\FR\Console_Vue.resources.dll
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.csproj.CopyComplete
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.genruntimeconfig.cache
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\DE\Console_Vue.resources.dll
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\ES\Console_Vue.resources.dll
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\IT\Console_Vue.resources.dll
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.Language.Text.DE.resources
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.Language.Text.ES.resources
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.Language.Text.IT.resources
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\DE\Console_Vue.resources.dll
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\ES\Console_Vue.resources.dll
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\IT\Console_Vue.resources.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.Language.Text.resources
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.Language.Text.DE.resources
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.Language.Text.ES.resources
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.Language.text.FR.resources
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.Language.Text.IT.resources
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.csproj.GenerateResource.cache
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\DE\Console_Vue.resources.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\ES\Console_Vue.resources.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\FR\Console_Vue.resources.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\IT\Console_Vue.resources.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\DE\Console_Vue.resources.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\ES\Console_Vue.resources.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\FR\Console_Vue.resources.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\IT\Console_Vue.resources.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.exe
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.deps.json
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.runtimeconfig.json
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.runtimeconfig.dev.json
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.pdb
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\DE\Console_Vue.resources.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\ES\Console_Vue.resources.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\FR\Console_Vue.resources.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\IT\Console_Vue.resources.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Api.CommonProtos.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Api.Gax.Grpc.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Cloud.Translate.V3.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.LongRunning.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Grpc.Auth.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.csproj.AssemblyReference.cache
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.Language.Text.resources
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.Language.Text.DE.resources
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.Language.Text.ES.resources
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.Language.text.FR.resources
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.Language.Text.IT.resources
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.csproj.GenerateResource.cache
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.AssemblyInfoInputs.cache
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.AssemblyInfo.cs
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.csproj.CoreCompileInputs.cache
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\DE\Console_Vue.resources.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\ES\Console_Vue.resources.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\FR\Console_Vue.resources.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\IT\Console_Vue.resources.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.csproj.CopyComplete
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.dll
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.pdb
+C:\Users\milod\OneDrive\Documents\GitHub\EasySave_Grp4\Save_process\obj\Debug\netcoreapp3.1\Console_Vue.genruntimeconfig.cache
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.dll.config
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\System.Configuration.Abstractions.NetStandard.dll
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\Console_Vue.dll.config
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\System.Configuration.Abstractions.NetStandard.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\Save_process\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

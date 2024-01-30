@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iECZVCqCkCD30xWe8iLLtzMuksJPd/+EymZBFYvvG7YXfwndiaryj0Qtk8SpfWAf5Prrp2jWzfVSo7XkdTjCzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nvirg\\Desktop\\dev\\Prog_sys_cesi\\EasySave_Grp4\\Version 3.0\\App_v3.0\\Client interface\\Client interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nvirg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

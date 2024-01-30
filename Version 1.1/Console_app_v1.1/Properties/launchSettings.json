@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2"
+    },
+    "Console_vue": {
+      "commandName": "Project"
+    }
+  }
+}

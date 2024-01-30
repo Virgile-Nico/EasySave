@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DE" xml:space="preserve">
+    <value>German</value>
+  </data>
+  <data name="Default_back" xml:space="preserve">
+    <value>[] Leave blank to cancel and return to main menu</value>
+  </data>
+  <data name="Default_back2" xml:space="preserve">
+    <value>You have chosen to cancel and return to the main menu.</value>
+  </data>
+  <data name="Default_default" xml:space="preserve">
+    <value>You chosed, to get the default path</value>
+  </data>
+  <data name="Default_log_back" xml:space="preserve">
+    <value>You chosed {0} as default log file type</value>
+  </data>
+  <data name="Default_log_opt1" xml:space="preserve">
+    <value>[1] json</value>
+  </data>
+  <data name="Default_log_opt2" xml:space="preserve">
+    <value>[2] XML</value>
+  </data>
+  <data name="Default_log_question" xml:space="preserve">
+    <value>What type of file do you want as log files ?</value>
+  </data>
+  <data name="Default_New" xml:space="preserve">
+    <value>You chosed to set a new app path, wich is : </value>
+  </data>
+  <data name="Default_opt1" xml:space="preserve">
+    <value>[1] Enter the path for the new location</value>
+  </data>
+  <data name="Default_opt2" xml:space="preserve">
+    <value>[D] To use the default location</value>
+  </data>
+  <data name="Default_question" xml:space="preserve">
+    <value>Do you want to change the default app files location</value>
+  </data>
+  <data name="Display_back" xml:space="preserve">
+    <value>[] Leave blank to cancel and return to main menu</value>
+  </data>
+  <data name="Display_back2" xml:space="preserve">
+    <value>Press return to go back to the main menu...</value>
+  </data>
+  <data name="Display_opt1" xml:space="preserve">
+    <value>[1] Yes</value>
+  </data>
+  <data name="Display_question" xml:space="preserve">
+    <value>Do you want to see all prepared saves ?</value>
+  </data>
+  <data name="Divider" xml:space="preserve">
+    <value>=========================================================</value>
+  </data>
+  <data name="EN" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="ES" xml:space="preserve">
+    <value>Spanish</value>
+  </data>
+  <data name="FR" xml:space="preserve">
+    <value>French</value>
+  </data>
+  <data name="IT" xml:space="preserve">
+    <value>Italian</value>
+  </data>
+  <data name="Lang_error" xml:space="preserve">
+    <value>Wrong input, return to previous language</value>
+  </data>
+  <data name="Lang_opt1" xml:space="preserve">
+    <value>[1] Français</value>
+  </data>
+  <data name="Lang_opt2" xml:space="preserve">
+    <value>[2] English</value>
+  </data>
+  <data name="Lang_opt3" xml:space="preserve">
+    <value>[3] Español</value>
+  </data>
+  <data name="Lang_opt4" xml:space="preserve">
+    <value>[4] Deutsch</value>
+  </data>
+  <data name="Lang_opt5" xml:space="preserve">
+    <value>[5] Italiano</value>
+  </data>
+  <data name="Lang_question" xml:space="preserve">
+    <value>In which language do you want to pass your application?</value>
+  </data>
+  <data name="Lang_used" xml:space="preserve">
+    <value>The language used will now be</value>
+  </data>
+  <data name="Main_error" xml:space="preserve">
+    <value>Wrong entry</value>
+  </data>
+  <data name="Main_exit" xml:space="preserve">
+    <value>Closing the software</value>
+  </data>
+  <data name="Main_opt1" xml:space="preserve">
+    <value>[1] Prepare a backup</value>
+  </data>
+  <data name="Main_opt2" xml:space="preserve">
+    <value>[2] Run one or more backups</value>
+  </data>
+  <data name="Main_opt3" xml:space="preserve">
+    <value>[3] Display all saves informations</value>
+  </data>
+  <data name="Main_opt4" xml:space="preserve">
+    <value>[4] Settings</value>
+  </data>
+  <data name="Main_opt5" xml:space="preserve">
+    <value>[5] Quit the software</value>
+  </data>
+  <data name="Main_question" xml:space="preserve">
+    <value>What do you want to do ?</value>
+  </data>
+  <data name="Prepare_back" xml:space="preserve">
+    <value>You chosed to cancel and go back to the main menu.</value>
+  </data>
+  <data name="Prepare_back2" xml:space="preserve">
+    <value>[] Leave empty to cancel and go back to the main menu</value>
+  </data>
+  <data name="Prepare_diff" xml:space="preserve">
+    <value>You chosed to do a Differential Save.</value>
+  </data>
+  <data name="Prepare_diff2" xml:space="preserve">
+    <value>[D] Default location</value>
+  </data>
+  <data name="Prepare_done" xml:space="preserve">
+    <value> prepared !</value>
+  </data>
+  <data name="Prepare_error" xml:space="preserve">
+    <value>Incorrect Entry.</value>
+  </data>
+  <data name="Prepare_from" xml:space="preserve">
+    <value>From :</value>
+  </data>
+  <data name="Prepare_full" xml:space="preserve">
+    <value>You chosed to do a Full Save.</value>
+  </data>
+  <data name="Prepare_info_diff" xml:space="preserve">
+    <value>Differential Copy</value>
+  </data>
+  <data name="Prepare_info_full" xml:space="preserve">
+    <value>Full Copy</value>
+  </data>
+  <data name="Prepare_opt1" xml:space="preserve">
+    <value>[1] Full Save</value>
+  </data>
+  <data name="Prepare_opt2" xml:space="preserve">
+    <value>[2] Differential Save</value>
+  </data>
+  <data name="Prepare_opt3" xml:space="preserve">
+    <value>[3] Cancel and go back to the main menu</value>
+  </data>
+  <data name="Prepare_question" xml:space="preserve">
+    <value>Which type of save do you want to do ?</value>
+  </data>
+  <data name="Prepare_source" xml:space="preserve">
+    <value>Type the address of the source to save :</value>
+  </data>
+  <data name="Prepare_target" xml:space="preserve">
+    <value>Type the destination address where the save is going to be located :</value>
+  </data>
+  <data name="Prepare_to" xml:space="preserve">
+    <value>To :</value>
+  </data>
+  <data name="Prepare_working" xml:space="preserve">
+    <value>Preparing</value>
+  </data>
+  <data name="Save_all" xml:space="preserve">
+    <value>You have chosen to perform all backups.</value>
+  </data>
+  <data name="Save_back" xml:space="preserve">
+    <value>[] Leave blank to cancel and return to main menu</value>
+  </data>
+  <data name="Save_back2" xml:space="preserve">
+    <value>You have chosen to cancel and return to the main menu.</value>
+  </data>
+  <data name="Save_error" xml:space="preserve">
+    <value>Incorrect entry.</value>
+  </data>
+  <data name="Save_exec1" xml:space="preserve">
+    <value>The backup</value>
+  </data>
+  <data name="Save_exec2" xml:space="preserve">
+    <value>will run</value>
+  </data>
+  <data name="Save_opt1" xml:space="preserve">
+    <value>[1] Single slot save</value>
+  </data>
+  <data name="Save_opt2" xml:space="preserve">
+    <value>[2] Sequence of save slots (ex : saves 3 to 7)</value>
+  </data>
+  <data name="Save_opt3" xml:space="preserve">
+    <value>[3] All save slots</value>
+  </data>
+  <data name="Save_question" xml:space="preserve">
+    <value>Do you want to back up, or back up to all locations?</value>
+  </data>
+  <data name="Save_sequence1" xml:space="preserve">
+    <value>You chose to do a sequence of saves (ex : saves 3 to 7).</value>
+  </data>
+  <data name="Save_sequence2" xml:space="preserve">
+    <value>What is the first boundary of the sequence to be saved ? (ex :  lower or upper bound)</value>
+  </data>
+  <data name="Save_sequence3" xml:space="preserve">
+    <value>What is the second boundary of the sequence to be saved ? (ex : lower or upper bound)</value>
+  </data>
+  <data name="Save_sequence_exec1" xml:space="preserve">
+    <value>The save sequence is going to be executed from saves</value>
+  </data>
+  <data name="Save_sequence_exec2" xml:space="preserve">
+    <value>to</value>
+  </data>
+  <data name="Save_single" xml:space="preserve">
+    <value>You have chosen to make a backup.</value>
+  </data>
+  <data name="Save_single_opt1" xml:space="preserve">
+    <value>[0;{0}] Choose a save location between 0 and {0}</value>
+  </data>
+  <data name="Save_single_question" xml:space="preserve">
+    <value>What backup do you want to run?</value>
+  </data>
+  <data name="Settings_back" xml:space="preserve">
+    <value>[] Leave blank to cancel and return to main menu</value>
+  </data>
+  <data name="Settings_opt1" xml:space="preserve">
+    <value>[1] Change software language</value>
+  </data>
+  <data name="Settings_opt2" xml:space="preserve">
+    <value>[2] Change default app files location</value>
+  </data>
+  <data name="Settings_opt3" xml:space="preserve">
+    <value>[3] Change default log file type</value>
+  </data>
+  <data name="Settings_question" xml:space="preserve">
+    <value>Settings :</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>Welcome on Easy save, your backup software !</value>
+  </data>
+</root>

@@ -1,0 +1,24 @@
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\bin\Release\netcoreapp3.1\Client interface.exe
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\bin\Release\netcoreapp3.1\Client interface.deps.json
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\bin\Release\netcoreapp3.1\Client interface.runtimeconfig.json
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\bin\Release\netcoreapp3.1\Client interface.runtimeconfig.dev.json
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\bin\Release\netcoreapp3.1\Client interface.dll
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\bin\Release\netcoreapp3.1\Client interface.pdb
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\Client interface.csproj.AssemblyReference.cache
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\Observe_Save_Selector_Screen.g.cs
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\Progress_Screen.g.cs
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\Client interface_MarkupCompile.cache
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\Client interface_MarkupCompile.lref
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\MainWindow.baml
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\Observe_Save_Selector_Screen.baml
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\Progress_Screen.baml
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\Client interface.g.resources
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\Client interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\Client interface.AssemblyInfoInputs.cache
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\Client interface.AssemblyInfo.cs
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\Client interface.csproj.CoreCompileInputs.cache
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\Client interface.dll
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\Client interface.pdb
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\Client interface\obj\Release\netcoreapp3.1\Client interface.genruntimeconfig.cache

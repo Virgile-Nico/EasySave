@@ -1,0 +1,56 @@
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Virgile\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\nvirg\OneDrive - Association Cesi Viacesi mail\CESI\FISA-22_25\Semestre 5\Prog_sys\Projet\EasySave_Grp4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Virgile\Desktop\Dev_web\Prog_sys\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Virgile\Desktop\Dev_web\Prog_sys\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Virgile\Desktop\Dev_web\Prog_sys\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Virgile\Desktop\Dev_web\Prog_sys\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Virgile\Desktop\Dev_web\Prog_sys\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Virgile\Desktop\Dev_web\Prog_sys\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Virgile\Desktop\Dev_web\Prog_sys\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Virgile\Desktop\Dev_web\Prog_sys\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Virgile\Desktop\Dev_web\Prog_sys\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Virgile\Desktop\Dev_web\Prog_sys\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Virgile\Desktop\Dev_web\Prog_sys\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Virgile\Desktop\Dev_web\Prog_sys\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Virgile\Desktop\Dev_web\Prog_sys\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Virgile\Desktop\Dev_web\Prog_sys\EasySave_Grp4\Version 3.0\App_v3.0\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CKE8ZH4Cc2NI6Z4qUntno69+80NRBuT8ep7NcLQ2SSlnbWJ2eckf/yjyXAIHLrsrJNfjqQmQ0Hg+P4q/UNWyBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\milod\\OneDrive\\Documents\\GitHub\\EasySave_Grp4\\Version 2.0\\App_v2.0\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milod\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\milod\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\milod\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\milod\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

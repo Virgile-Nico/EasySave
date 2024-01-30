@@ -1,0 +1,5 @@
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Publishs\3.0\Client EasySave\Client interface.exe
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Publishs\3.0\Client EasySave\Client interface.dll
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Publishs\3.0\Client EasySave\Client interface.deps.json
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Publishs\3.0\Client EasySave\Client interface.runtimeconfig.json
+C:\Users\nvirg\Desktop\dev\Prog_sys_cesi\EasySave_Grp4\Publishs\3.0\Client EasySave\Client interface.pdb

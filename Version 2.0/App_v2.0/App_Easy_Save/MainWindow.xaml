@@ -1,0 +1,24 @@
+﻿<Window x:Class="App_Easy_Save.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:App_Easy_Save"
+        mc:Ignorable="d"
+        Title="Easy Save" 
+        Height="450" 
+        Width="800"
+        Background="#9bc3d3"
+        >
+    <Grid>
+        <TextBlock Name="Welcome" HorizontalAlignment="Left" Margin="41,10,0,0" VerticalAlignment="Top" Width="282" FontSize="20" Height="77" Text="TextBlock" TextWrapping="Wrap" TextAlignment="Center" />
+
+        <Button Name="Prep"  Content="Button" HorizontalAlignment="Left" Margin="41,92,0,0" VerticalAlignment="Top" Click="Prep_Click" Height="42" Width="282"/>
+        <Button Name="Save" Content="Button" HorizontalAlignment="Left" Margin="41,150,0,0" VerticalAlignment="Top" Click="Save_Click" Height="42" Width="282"/>
+        <Button Name="Display" Content="Button" HorizontalAlignment="Left" Margin="41,209,0,0" VerticalAlignment="Top" Click="Display_Click" Height="42" Width="282"/>
+        <Button Name="Settings" Content="Button" HorizontalAlignment="Left" Margin="41,269,0,0" VerticalAlignment="Top" Click="Settings_Click" Height="42" Width="282"/>
+
+        <ScrollViewer Margin="350,0,0,0" Name="Preps_display" FontSize="20"></ScrollViewer>
+        
+    </Grid>
+</Window>
